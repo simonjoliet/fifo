@@ -1,6 +1,6 @@
 This program is a simple implementation of a FIFO manager written in C. It allows the user to create, initialize, input new data into and display a first-in, first-out (FIFO) queue.
 
-Usage
+#Usage
 The program can be compiled using a C compiler, such as GCC, and then run from the command line.
 
 When the program is running, it displays a menu of options to the user, as follows:
@@ -13,7 +13,7 @@ When the program is running, it displays a menu of options to the user, as follo
 'Q'uitter: quits the program.
 
 
-Code Overview
+#Code Overview
 The program consists of several subroutines, each responsible for a different task:
 
 sp_ini(): initializes a Tpile structure.
